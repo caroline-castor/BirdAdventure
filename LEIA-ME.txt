@@ -1,0 +1,14 @@
+Bird Adventure
+
+LINUX
+Para executar o jogo, entre pelo terminal na pasta BirdAdventureExecutável e execute o seguinte comando
+java -jar BirdAdventure.jar
+
+WINDOWS
+
+Utilize o .exe localizado na pasta BirdAdventureExecutavel
+
+CODIGO FONTE
+
+O código-fonte e projeto está localizado na pasta BirdAdventure
+Para desenvolver o jogo foi utilizado o Eclipse IDE versão Neon e JRE 1.8.0
